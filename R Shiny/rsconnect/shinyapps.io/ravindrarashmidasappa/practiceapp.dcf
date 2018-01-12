@@ -1,0 +1,12 @@
+name: practiceapp
+title: practice app
+username:
+account: ravindrarashmidasappa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254628
+bundleId: 1165953
+url: https://ravindrarashmidasappa.shinyapps.io/practiceapp/
+when: 1515362670.1928
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: iris_reactive
+title: iris_reactive
+username:
+account: ravindrarashmidasappa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254699
+bundleId: 1166303
+url: https://ravindrarashmidasappa.shinyapps.io/iris_reactive/
+when: 1515388555.84646
+asMultiple: FALSE
+asStatic: FALSE

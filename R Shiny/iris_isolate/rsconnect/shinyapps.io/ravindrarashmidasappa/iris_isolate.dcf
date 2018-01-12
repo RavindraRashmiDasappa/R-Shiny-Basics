@@ -1,0 +1,12 @@
+name: iris_isolate
+title: iris_isolate
+username:
+account: ravindrarashmidasappa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254700
+bundleId: 1166313
+url: https://ravindrarashmidasappa.shinyapps.io/iris_isolate/
+when: 1515389145.02606
+asMultiple: FALSE
+asStatic: FALSE

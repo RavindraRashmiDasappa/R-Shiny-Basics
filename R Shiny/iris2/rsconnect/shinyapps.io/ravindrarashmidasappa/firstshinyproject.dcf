@@ -1,0 +1,12 @@
+name: firstshinyproject
+title: firstshinyproject
+username:
+account: ravindrarashmidasappa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254694
+bundleId: 1166286
+url: https://ravindrarashmidasappa.shinyapps.io/firstshinyproject/
+when: 1515386987.03725
+asMultiple: FALSE
+asStatic: FALSE
